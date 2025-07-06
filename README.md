@@ -6,9 +6,11 @@ First, run the development server:
 
 ```bash
 - No esqueça não de baixar as dependências para rodar o projeto:
+
   npm install
 
-- Rodar o Projeto: 
+- Rodar o Projeto:
+
   npm run dev
   # or
   yarn dev
