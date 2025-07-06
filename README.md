@@ -5,7 +5,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 First, run the development server:
 
 ```bash
-- No esqueça não de baixar as dependencia para rodar o projeto:
+- No esqueça não de baixar as dependências para rodar o projeto:
    npm install
 
 - Rodar o Projeto: 
